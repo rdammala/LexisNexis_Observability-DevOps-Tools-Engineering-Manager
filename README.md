@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Observability & DevOps Tools Engineering Manager opportunities.
 
-**Live:** https://rdammala.github.io/LexisNexis_Observability-DevOps-Tools-Engineering-Manager/
+**Live:** https://rdammala-org.github.io/LexisNexis_Observability-DevOps-Tools-Engineering-Manager/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
